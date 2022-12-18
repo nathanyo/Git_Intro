@@ -1,3 +1,4 @@
-#INTRO to Git 
+# INTRO to Git
+
 clone - copying file into local 
 commit 
